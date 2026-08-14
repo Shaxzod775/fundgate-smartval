@@ -1,0 +1,337 @@
+{
+  "generatedAt": "2026-08-10",
+  "dataSource": "Firestore (default) · fundgate-smartval-v2 · crm_startups, шесть фондов с fundgate.uz",
+  "scale": {
+    "fundsConnected": 6,
+    "uniqueStartups": 416,
+    "uniqueSubmissions": 473,
+    "scoredSubmissions": 320,
+    "startupFundPairs": 714,
+    "fundManagers": 39,
+    "startupsInPortfolio": 36,
+    "startupsInReview": 25,
+    "fundsPerStartup": 1.7
+  },
+  "funds": [
+    {
+      "id": "org-itpark",
+      "name": "IT Park Ventures",
+      "connectedAt": "2026-02-01T15:37:20.182000+00:00",
+      "cards": 365,
+      "uniqueStartups": 350,
+      "avgScore": 54.9,
+      "portfolio": 35,
+      "rejected": 238
+    },
+    {
+      "id": "3zapXEGiYXJ1ixPrHuwD",
+      "name": "UZCARD Ventures",
+      "connectedAt": "2026-05-08T06:11:25.029000+00:00",
+      "cards": 93,
+      "uniqueStartups": 87,
+      "avgScore": 62.5,
+      "portfolio": 0,
+      "rejected": 1
+    },
+    {
+      "id": "SStcdLjLIm2mYA5S1acd",
+      "name": "AIS Ventures",
+      "connectedAt": "2026-04-23T11:59:45.196000+00:00",
+      "cards": 89,
+      "uniqueStartups": 82,
+      "avgScore": 63.6,
+      "portfolio": 1,
+      "rejected": 2
+    },
+    {
+      "id": "4Pw8BdEcftJPgKPpGEvK",
+      "name": "Tanay VC",
+      "connectedAt": "2026-06-11T07:26:16.194000+00:00",
+      "cards": 79,
+      "uniqueStartups": 72,
+      "avgScore": 63.6,
+      "portfolio": 0,
+      "rejected": 0
+    },
+    {
+      "id": "AD5XVHD5AcBcATUIVyKP",
+      "name": "United Ventures",
+      "connectedAt": "2026-05-06T06:07:40.808000+00:00",
+      "cards": 77,
+      "uniqueStartups": 70,
+      "avgScore": 63.9,
+      "portfolio": 0,
+      "rejected": 0
+    },
+    {
+      "id": "Y4l43SlRZDwqLXCM5Lp3",
+      "name": "StartupBase",
+      "connectedAt": "2026-06-15T09:52:43.336000+00:00",
+      "cards": 11,
+      "uniqueStartups": 11,
+      "avgScore": 58.5,
+      "portfolio": 0,
+      "rejected": 0
+    }
+  ],
+  "quality": {
+    "monthly": [
+      {
+        "month": "2026-04",
+        "count": 19,
+        "avg": 56.7,
+        "median": 58,
+        "share60": 26.3,
+        "share70": 5.3
+      },
+      {
+        "month": "2026-05",
+        "count": 67,
+        "avg": 50.7,
+        "median": 53,
+        "share60": 17.9,
+        "share70": 0.0
+      },
+      {
+        "month": "2026-06",
+        "count": 133,
+        "avg": 55.1,
+        "median": 59,
+        "share60": 45.1,
+        "share70": 9.8
+      },
+      {
+        "month": "2026-07",
+        "count": 86,
+        "avg": 61.3,
+        "median": 62.0,
+        "share60": 61.6,
+        "share70": 26.7
+      },
+      {
+        "month": "2026-08",
+        "count": 15,
+        "avg": 63.5,
+        "median": 61,
+        "share60": 53.3,
+        "share70": 26.7
+      }
+    ],
+    "before": {
+      "label": "апр–июн 2026",
+      "count": 219,
+      "avg": 53.9
+    },
+    "after": {
+      "label": "июл–авг 2026",
+      "count": 101,
+      "avg": 61.7
+    },
+    "components": [
+      {
+        "code": "A",
+        "name": "completeness",
+        "max": 20,
+        "before": 17.4,
+        "after": 17.5
+      },
+      {
+        "code": "B",
+        "name": "pitchDeck",
+        "max": 20,
+        "before": 10.9,
+        "after": 15.1
+      },
+      {
+        "code": "C",
+        "name": "traction",
+        "max": 20,
+        "before": 3.5,
+        "after": 4.1
+      },
+      {
+        "code": "D",
+        "name": "team",
+        "max": 15,
+        "before": 8.6,
+        "after": 9.4
+      },
+      {
+        "code": "E",
+        "name": "product",
+        "max": 15,
+        "before": 7.6,
+        "after": 9.6
+      },
+      {
+        "code": "F",
+        "name": "materials",
+        "max": 10,
+        "before": 5.9,
+        "after": 6.0
+      }
+    ],
+    "channelIframe": [
+      {
+        "month": "2026-06",
+        "count": 92,
+        "avg": 54.5
+      },
+      {
+        "month": "2026-07",
+        "count": 47,
+        "avg": 63.3
+      },
+      {
+        "month": "2026-08",
+        "count": 7,
+        "avg": 63.6
+      }
+    ],
+    "completeness": [
+      {
+        "month": "2026-03",
+        "avgFields": 20.5
+      },
+      {
+        "month": "2026-04",
+        "avgFields": 18.5
+      },
+      {
+        "month": "2026-05",
+        "avgFields": 20.3
+      },
+      {
+        "month": "2026-06",
+        "avgFields": 24.5
+      },
+      {
+        "month": "2026-07",
+        "avgFields": 27.4
+      },
+      {
+        "month": "2026-08",
+        "avgFields": 26.2
+      }
+    ]
+  },
+  "speed": {
+    "count": 187,
+    "medianSec": 118.0,
+    "p90Sec": 220.9
+  },
+  "funnel": [
+    {
+      "status": "new",
+      "count": 412
+    },
+    {
+      "status": "rejected",
+      "count": 241
+    },
+    {
+      "status": "portfolio",
+      "count": 36
+    },
+    {
+      "status": "in_review",
+      "count": 23
+    },
+    {
+      "status": "pipeline",
+      "count": 2
+    }
+  ],
+  "geography": [
+    {
+      "country": "Узбекистан",
+      "count": 362
+    },
+    {
+      "country": "Казахстан",
+      "count": 24
+    },
+    {
+      "country": "Россия",
+      "count": 10
+    },
+    {
+      "country": "США",
+      "count": 8
+    },
+    {
+      "country": "Великобритания",
+      "count": 6
+    },
+    {
+      "country": "Таджикистан",
+      "count": 6
+    },
+    {
+      "country": "Азербайджан",
+      "count": 5
+    },
+    {
+      "country": "Албания",
+      "count": 5
+    },
+    {
+      "country": "Австрия",
+      "count": 5
+    },
+    {
+      "country": "Нидерланды",
+      "count": 4
+    }
+  ],
+  "industries": [
+    {
+      "industry": "EdTech",
+      "count": 55
+    },
+    {
+      "industry": "SaaS",
+      "count": 54
+    },
+    {
+      "industry": "AI & ML",
+      "count": 53
+    },
+    {
+      "industry": "FinTech",
+      "count": 32
+    },
+    {
+      "industry": "E-commerce",
+      "count": 26
+    },
+    {
+      "industry": "AgriTech",
+      "count": 26
+    },
+    {
+      "industry": "HealthTech",
+      "count": 25
+    },
+    {
+      "industry": "Gaming",
+      "count": 16
+    },
+    {
+      "industry": "Logistics",
+      "count": 15
+    },
+    {
+      "industry": "HRTech",
+      "count": 15
+    }
+  ],
+  "tooling": {
+    "pitchDecks": 119,
+    "autofillJobs": 38,
+    "smartvalEvaluations": 46,
+    "investorApplications": 103,
+    "aiChats": 72,
+    "aiEvaluations": 423
+  }
+}
